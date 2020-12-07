@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Soy bueno resolviendo problemas*
+_Me gusta la matematica_
+
+**Programo en java**
+__Tambien me gusta python__
+
+_El desarrollo web **me fascina** _
